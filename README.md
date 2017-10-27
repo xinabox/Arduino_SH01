@@ -1,5 +1,5 @@
 # ☒CHIP SH01
-<img src="extras/SH01 V0.5.0.JPG" width="300" align="right">
+<img src="extras/SH01 V0.5.0.JPG" width="35%" height="auto" align="right">
 Sensor Module based on the CAP1296 multichannel capacitive touch sensor.
 
 This module can be purchased on [Xinabox CC](https://xinabox.cc/products/SH01/).

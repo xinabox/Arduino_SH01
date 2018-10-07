@@ -11,12 +11,12 @@
 	CAP1296 - http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en566278
 */
 
-#ifndef xSH01_h
-#define xSH01_h
+#ifndef Arduino_SH01_h
+#define Arduino_SH01_h
 
 // Include File Headers
 #include <xCore.h>
-#include <xSH01_CONFIG.h>
+#include <SH01_CONFIG.h>
 
 /* CAP1296 register addresses */
 #define CAP1296_REG_MAIN 				0x00      	//Main Control
@@ -156,8 +156,6 @@ class xSH01: public xCoreClass
 		uint8_t GENERAL_STATUS;
 
 		uint8_t CAP1296_I2C_ADDR;
-
-
 
 };
 

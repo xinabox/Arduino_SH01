@@ -11,8 +11,8 @@
 	CAP1296 - http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en566278
 */
 
-#ifndef xSH01_CONFIG_h
-#define xSH01_CONFIG_h
+#ifndef SH01_CONFIG_h
+#define SH01_CONFIG_h
 
 // MAIN CONTROL REGISTER
 struct MAIN_CONF_REG {

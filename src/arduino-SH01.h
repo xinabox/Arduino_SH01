@@ -11,8 +11,8 @@
 	CAP1296 - http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en566278
 */
 
-#ifndef Arduino_SH01_h
-#define Arduino_SH01_h
+#ifndef arduino-SH01_h
+#define arduino-SH01_h
 
 // Include File Headers
 #include <xCore.h>

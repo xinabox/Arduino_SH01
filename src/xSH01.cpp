@@ -11,7 +11,7 @@
 	CAP1296 - http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en566278
 */
 
-#include <arduino-SH01.h>
+#include <xSH01.h>
 
 /*---Public Function---*/
 /********************************************************

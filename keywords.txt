@@ -11,20 +11,20 @@
 # Methods and Functions (KEYWORD2)
 #######################################
 
-begin   KEYWORD2
-poll    KEYWORD2
-touchDetected   KEYWORD2
-triangleTouched KEYWORD2
-squareTouched   KEYWORD2
-circleTouched   KEYWORD2
-crossTouched    KEYWORD2
-getTouch    KEYWORD2
+begin	KEYWORD2
+poll	KEYWORD2
+touchDetected	KEYWORD2
+triangleTouched	KEYWORD2
+squareTouched	KEYWORD2
+circleTouched	KEYWORD2
+crossTouched	KEYWORD2
+getTouch	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
 #######################################
 
-TRIANGLE    LITERAL1
-CIRCLE  LITERAL1
-SQUARE  LITERAL1
-CROSS   LITERAL1
+TRIANGLE	LITERAL1
+CIRCLE	LITERAL1
+SQUARE	LITERAL1
+CROSS	LITERAL1

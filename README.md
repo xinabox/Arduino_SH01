@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/xinabox/arduino-SH01.svg?branch=master)](https://travis-ci.org/xinabox/arduino-SH01)
+
 # ☒CHIP SH01
 <img src="extras/SH01 V0.5.0.JPG" width="35%" height="auto" align="right">
 Sensor Module based on the CAP1296 multichannel capacitive touch sensor.
